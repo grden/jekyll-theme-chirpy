@@ -34,7 +34,7 @@ order: 3
 <br>
 
 ---
-## 🏫  Education
+## 🎓  Education
 - **Kyung Hee University**<br>
 Computer Science, College of Software &ensp;|&ensp; Mar.2020 - Present
 

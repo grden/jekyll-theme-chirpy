@@ -10,10 +10,10 @@ order: 3
 <div class="container">
 	<div class="profile-teaser row">
 		<div class="col">
-			<h2 class="mb-3">I'm <b>Jeongwon Kim</b>,</h2>
+			<h2 class="mb-3">I'm <span class="fw-bold">Jeongwon Kim</span>,</h2>
 			<div class="mb-4">
 				an undergraduate student at Kyung Hee University, majoring in Computer Science.<br>
-                I'm recently interested in <b>HCI/UX</b> and <b>Mobile Computing</b>.<br>
+                I'm recently interested in <span class="fw-bold">HCI/UX</span> and <span class="fw-bold">Mobile Computing</span>.<br>
 			</div><!--//bio-->
 			<div class="contact-list">
 				<ul class="list-unstyled">

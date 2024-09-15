@@ -10,8 +10,8 @@ order: 3
 <div class="container">
 	<div class="profile-teaser row">
 		<div class="col">
-			<h2 class="name mb-3">I'm <b>Jeongwon Kim</b>,</h2>
-			<div class="bio mb-4">
+			<h2 class="mb-3">I'm <b>Jeongwon Kim</b>,</h2>
+			<div class="mb-4">
 				an undergraduate student at Kyung Hee University, majoring in Computer Science.<br>
                 I'm recently interested in <b>HCI/UX</b> and <b>Mobile Computing</b>.<br>
 			</div><!--//bio-->
